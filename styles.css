@@ -3,10 +3,7 @@ body{
     padding: 0px;
     margin:0px;
     background-color: #1F2937;
-    @media screen and (max-width: 600px) {
-        display: block;
-        
-    }
+    
     
 }
 
@@ -168,6 +165,7 @@ header{
     border-radius: 5px;
     margin-top: 10%;
     margin-bottom: 10%;
+    align-items: center;
 }
 .texts{
     margin-right: 100px;
@@ -192,6 +190,4 @@ footer{
     text-align: center;
     padding: 2% 0 2% 0
 }
-main{
-    width: 100%;
-}
+
